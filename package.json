@@ -28,6 +28,7 @@
     "react-router": "^2.7.0",
     "react-select": "^1.0.0-beta14",
     "react-tap-event-plugin": "^2.0.1",
+    "create-react-class": "*",
     "superagent": "^2.2.0",
     "swagger-client": "^2.1.18"
   },
